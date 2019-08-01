@@ -1,0 +1,80 @@
+
+MongoDB CRUD:
+-----------------------------------------------------------------------------------------------------CREATE---------------------------------------------------------------------------------------------------------------
+1. Add Faculty to ems db
+
+db.faculty.insertOne(
+    {"name" : "Manoj","age" : 38.0,"gender" : "M", 	"subjects" : [ "JAVA", "DBMS"	], "type" : "Full Time","qualification" : "Ph.D","years_of_exp" : 12.0}
+ )
+
+2. Add two more faculties to ems db:
+
+db.faculty.insertMany([
+            { "name":"Manoj", "age":38,"gender":"M","exp":12,subjects:["JAVA","DBMS"],"type":"Full Time", "qualification":"Ph.D"},
+            { "name":"Anush", "age":32,"gender":"F","exp":8,subjects:["C","CPP"],"type":"Part Time","qualification":"M.Tech" },
+            { "name":"Suresh", "age":40,"gender":"M","exp":9,subjects:["JAVA","DBMS","NETWORKING"],"type":"Full Time", "qualification":"Ph.D"},
+            { "name":"Rajesh", "age":35,"gender":"M","exp":7,subjects:["DS","C","OS"],"type":"Full Time","qualification":"M.Tech" },
+            { "name":"Mani", "age":38,"gender":"F","exp":10,subjects:["JAVA","DBMS","OS"],"type":"Part Time", "qualification":"Ph.D"},
+            { "name":"Sivani", "age":32,"gender":"F","exp":8,subjects:["C","CPP","MATHS"],"type":"Part Time","qualification":"M.Tech" },
+            { "name":"Nagesh", "age":39,"gender":"M","exp":11,subjects:["JAVA","DBMS","NETWORKING"],"type":"Full Time", "qualification":"Ph.D"},
+            { "name":"Nagesh", "age":35,"gender":"M","exp":9,subjects:["JAVA",".Net","NETWORKING"],"type":"Full Time", "qualification":"Ph.D"},
+            { "name":"Latha", "age":40,"gender":"F","exp":13,subjects:["MATHS"],"type":"Full Time", "qualification":"Ph.D"}
+]);
+-----------------------------------------------------------------------------------------------------READ---------------------------------------------------------------------------------------------------------------
+
+1. Get all the faculty details:
+	db.faculty.find({})
+
+Comparision Operators:  $gt / $gte , $lt / $lte, $exists, $regex, $type, $ne, $in, $nin
+
+1. Get all the Faculty members whose experience is more than 10 years?
+
+                          db.faculty.find( {"exp":{$gt:10}} )
+
+2. Get all the Faculty members whose experience is more than or equal to 10 years?  
+
+	        db.faculty.find( {"exp":{$gt:10}} ) 
+
+3. Get all the Faculty members whose experience is less than 10 years?
+
+                          db.faculty.find( {"exp":{$lt:10}} )
+
+4. Get all the Faculty members whose experience is less than or equal to 10 years?  
+
+	        db.faculty.find( {"exp":{$lte:10}} ) 
+ 
+5. Find all the faculties who are teaching?
+	
+	       db.faculty.find(	{subjects: {$exists : true} } )
+
+6.  Find the all the faculty member whose name starts with letter 'S'?
+	     
+                       db.faculty.find( {name:{$regex: /^S.*/ , $options:"i"}} )
+
+7. Find the all the faculty member whose name starts with letter 'S' and ends with letter 'I' ? 
+	
+	    db.faculty.find( {name:{$regex: /^S.*I$/ , $options:"i"}} )
+
+8. Get all the faculty members who are teaching the subjects wich has the  "king" or "net" init 
+
+	    db.faculty.find(   {subjects:{$in: [/king/i, /net/i ]}}  )
+
+9. Get all the faculty members who are having subjects as an array?
+	db.faculty.find( {subjects:{$type:4}} )
+
+10. Get all the faculty members whose qualfication is not 'Ph.D'
+	db.faculty.find( {qualification:{$ne:"Ph.D"}} )
+
+11. Get all the faculty memeber who are teaching "JAVA" or "MATHS"
+	db.faculty.find( {subjects:{$in:["JAVA","MATHS"]}} )
+
+12. Get all the faculty memeber who are not teaching "JAVA" or "MATHS"
+	db.faculty.find( {subjects:{$nin:["JAVA","MATHS"]}} )
+
+		
+
+
+
+
+
+	
