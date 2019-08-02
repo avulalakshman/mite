@@ -1,0 +1,15 @@
+1. What is the difference between list and tuple? 
+2. What is the difference between list and set?
+3. What is dictionary? what are different ways to access elements from dictionary?
+4. Explain functions vs methods
+5. What is lambda fuction? 
+
+
+1. How do you find all permutations of a string?
+2. How do you count a number of vowels and consonants in a given string?
+3. How do you find the occurance of each character in a given string?
+4. Write a program to accept the five digit number from the user and do the following
+	Palindrome or not
+	Reverse the given number
+	Sum of the digits of the given number
+5. Write a program to search an element in a list using Binary Search 
