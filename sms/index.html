@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Student Information</title>
+   
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <button class="btn" onclick="callOn()">On</button>
+    <button class="btn" onclick="callOff()">Off</button>
+    <hr>
+    <button class="btn" onclick="checkUser()">Delete</button>
+    <div id="res"></div>
+
+    <form id="reg">
+            <fieldset>
+                <legend>Registration Form</legend>
+                <p>
+                    <label for="name">Name:<em>*</em></label>
+                    <input type="text"  id="name" name="name">
+                </p>
+                <p>
+                    <label for="gender" >Gender:<em>*</em>
+                    </label>
+                    <input type="radio" id="gender" name="gender" value="M"> M
+                    <input type="radio" id="gender" name="gender" value="F"> F
+                </p>
+                <p>
+                    <label for="branch">
+                        Branch:<em>*</em>
+                    </label>
+                    <select name="branch" id="branch">
+                        <option value="">Select Branch</option>
+                        <option value="CSE">CSE</option>
+                        <option value="ISE">ISE</option>
+                    </select>
+                </p>
+                <p>
+                    <label>&nbsp;</label>
+                    <input type="button" value="Register" onclick="register()">
+                </p>
+            </fieldset>
+        </form>
+        <div id="showData">
+
+        </div>
+        <script src="./js/main.js"></script>
+</body>
+</html>
