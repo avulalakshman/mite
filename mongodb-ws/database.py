@@ -1,4 +1,14 @@
+import datetime
+
+post = {
+         "author": "Mike",
+        "text": "My first blog post!",
+        "tags": ["mongodb", "python", "pymongo"],
+        "date": datetime.datetime.utcnow()
+    }
+
 def add_new_faculty():
+    faculty = {"name:"}
     pass
 def add_subject_to_faculty():
     pass
