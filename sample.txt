@@ -1,1370 +1,1370 @@
 [
   {
-    "name": "Suma K",
+    "ename": "Suma K",
     "empno": "CSE763",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Anusha Jain",
+    "ename": "Anusha Jain",
     "empno": "CIV759",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Mayur A",
+    "ename": "Mayur A",
     "empno": "MEC757",
     "dname": "ME",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Gajanan M",
+    "ename": "Gajanan M",
     "empno": "MEC754",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Gautam",
+    "ename": "Gautam",
     "empno": "MEC755",
     "dname": "ME",
-    "qualfication": "Others"
+    "qualification": "Others"
   },
   {
-    "name": "Vignesh",
+    "ename": "Vignesh",
     "empno": "MEC753",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Praveen",
+    "ename": "Praveen",
     "empno": "MEC0752",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Murali K B",
+    "ename": "Murali K B",
     "empno": "MEC751",
     "dname": "ME",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "K Praveen",
+    "ename": "K Praveen",
     "empno": "MEC749",
     "dname": "MT",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Shivaramu H T",
+    "ename": "Shivaramu H T",
     "empno": "MEC748",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Vishwaretha K R",
+    "ename": "Vishwaretha K R",
     "empno": "AER747",
     "dname": "AE",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Adarsh",
+    "ename": "Adarsh",
     "empno": "AER746",
     "dname": "AE",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Akhila",
+    "ename": "Akhila",
     "empno": "AER745",
     "dname": "AE",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "PALLAVI",
+    "ename": "PALLAVI",
     "empno": "ISE737",
     "dname": "IS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Deepak",
+    "ename": "Deepak",
     "empno": "TAP736",
     "dname": "PT",
-    "qualfication": "Others"
+    "qualification": "Others"
   },
   {
-    "name": "Divakara Shetty",
+    "ename": "Divakara Shetty",
     "empno": "MEC727",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Savitha Shetty",
+    "ename": "Savitha Shetty",
     "empno": "MBA043",
     "dname": "MBA",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Suresha",
+    "ename": "Suresha",
     "empno": "MEC336",
     "dname": "MT",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Prajwal Achar",
+    "ename": "Prajwal Achar",
     "empno": "MEC902",
     "dname": "MT",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Sunitha N V",
+    "ename": "Sunitha N V",
     "empno": "CSE761",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Chinthan Lobo",
+    "ename": "Chinthan Lobo",
     "empno": "MEC907",
     "dname": "MT",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Elton Dylan",
+    "ename": "Elton Dylan",
     "empno": "MEC633",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Harshavardhan",
+    "ename": "Harshavardhan",
     "empno": "ISE576",
     "dname": "IS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Ajith",
+    "ename": "Ajith",
     "empno": "MBA665",
     "dname": "MBA",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Ashwini",
+    "ename": "Ashwini",
     "empno": "CIV658",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Snitha Shetty",
+    "ename": "Snitha Shetty",
     "empno": "CSE212",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "name:Ganesh",
+    "ename": "name:Ganesh",
     "empno": "ADM486",
     "dname": "CS",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Jyothi",
+    "ename": "Jyothi",
     "empno": "CSE599",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Shreekumar",
+    "ename": "Shreekumar",
     "empno": "CSE088",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Shrikant",
+    "ename": "Shrikant",
     "empno": "MEC487",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Ganesha",
+    "ename": "Ganesha",
     "empno": "CIV299",
     "dname": "CV",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Girish",
+    "ename": "Girish",
     "empno": "MEC334",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Guru",
+    "ename": "Guru",
     "empno": "CSE261",
     "dname": "CS",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Yashwanth",
+    "ename": "Yashwanth",
     "empno": "CIV403",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Srinath",
+    "ename": "Srinath",
     "empno": "AER499",
     "dname": "AE",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "John Prakash",
+    "ename": "John Prakash",
     "empno": "CSE510",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Tamilselvam",
+    "ename": "Tamilselvam",
     "empno": "AER645",
     "dname": "AE",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Pratik",
+    "ename": "Pratik",
     "empno": "MEC701",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Vishwas",
+    "ename": "Vishwas",
     "empno": "MEC567",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Sandeep",
+    "ename": "Sandeep",
     "empno": "CIV640",
     "dname": "CV",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Ramaswamy",
+    "ename": "Ramaswamy",
     "empno": "GUEST02",
     "dname": "MBA",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Siddanagowda",
+    "ename": "Siddanagowda",
     "empno": "CSE309",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Padmashree",
+    "ename": "Padmashree",
     "empno": "CSE168",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Sunil",
+    "ename": "Sunil",
     "empno": "CSE273",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Jayaprakash M",
+    "ename": "Jayaprakash M",
     "empno": "CIV301",
     "dname": "CV",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Nitesh",
+    "ename": "Nitesh",
     "empno": "CIV635",
     "dname": "CV",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Naresh D C",
+    "ename": "Naresh D C",
     "empno": "AER764",
     "dname": "AE",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Sandeep Kumar",
+    "ename": "Sandeep Kumar",
     "empno": "CSE308",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Yathiraj",
+    "ename": "Yathiraj",
     "empno": "MEC667",
     "dname": "MT",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "M S Nagananda",
+    "ename": "M S Nagananda",
     "empno": "ECE678",
     "dname": "EC",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Yathin",
+    "ename": "Yathin",
     "empno": "AER365",
     "dname": "AE",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Swapna",
+    "ename": "Swapna",
     "empno": "ECE367",
     "dname": "EC",
-    "qualfication": "Others"
+    "qualification": "Others"
   },
   {
-    "name": "Sunil Kumar",
+    "ename": "Sunil Kumar",
     "empno": "MEC329",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Padma Prasada",
+    "ename": "Padma Prasada",
     "empno": "ECE325",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Shreya",
+    "ename": "Shreya",
     "empno": "ECE402",
     "dname": "EC",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Praneeth Ravi",
+    "ename": "Praneeth Ravi",
     "empno": "AER571",
     "dname": "AE",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Sohan M",
+    "ename": "Sohan M",
     "empno": "MEC673",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Yamuna",
+    "ename": "Yamuna",
     "empno": "CIV581",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Anusha",
+    "ename": "Anusha",
     "empno": "BCSMT337",
     "dname": "MAT",
-    "qualfication": "Others"
+    "qualification": "Others"
   },
   {
-    "name": "Bhargavi Kamalaksha",
+    "ename": "Bhargavi Kamalaksha",
     "empno": "ECE405",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Pushpa Rani",
+    "ename": "Pushpa Rani",
     "empno": "ECE253",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Jayashri",
+    "ename": "Jayashri",
     "empno": "MBA612",
     "dname": "MBA",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Jayanth",
+    "ename": "Jayanth",
     "empno": "CIV582",
     "dname": "CV",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Vijaykumar",
+    "ename": "Vijaykumar",
     "empno": "MEC574",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Neelakantha V",
+    "ename": "Neelakantha V",
     "empno": "MEC390",
     "dname": "ME",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Rajesh",
+    "ename": "Rajesh",
     "empno": "MEC669",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Sagar",
+    "ename": "Sagar",
     "empno": "CIV545",
     "dname": "CV",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Jeevitha Sampath",
+    "ename": "Jeevitha Sampath",
     "empno": "CSE762",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Shivie R P",
+    "ename": "Shivie R P",
     "empno": "CIV579",
     "dname": "CV",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Prashanth B",
+    "ename": "Prashanth B",
     "empno": "CSE307",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Elston Joseph Dcruz",
+    "ename": "Elston Joseph Dcruz",
     "empno": "MEC407",
     "dname": "MD",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Mohd. Farhan",
+    "ename": "Mohd. Farhan",
     "empno": "MBA945",
     "dname": "MBA",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Varun K",
+    "ename": "Varun K",
     "empno": "MBA738",
     "dname": "MBA",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Panchami",
+    "ename": "Panchami",
     "empno": "ECE416",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Saranya Babu",
+    "ename": "Saranya Babu",
     "empno": "CSE412",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Shivaprasad",
+    "ename": "Shivaprasad",
     "empno": "CSE636",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Umadevi B",
+    "ename": "Umadevi B",
     "empno": "ISE228",
     "dname": "IS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Bharath H S",
+    "ename": "Bharath H S",
     "empno": "MBA916",
     "dname": "MBA",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Avinash",
+    "ename": "Avinash",
     "empno": "CIV693",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Ramesh Kuamr",
+    "ename": "Ramesh Kuamr",
     "empno": "BCSMT075",
     "dname": "MAT",
-    "qualfication": "Others"
+    "qualification": "Others"
   },
   {
-    "name": "Ganesh V",
+    "ename": "Ganesh V",
     "empno": "ECE047",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Sumalatha",
+    "ename": "Sumalatha",
     "empno": "CSE604",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Sharath",
+    "ename": "Sharath",
     "empno": "MEC648",
     "dname": "MT",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Kirankumar M",
+    "ename": "Kirankumar M",
     "empno": "MEC410",
     "dname": "MT",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Chandrashekar",
+    "ename": "Chandrashekar",
     "empno": "MEC289",
     "dname": "ME",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Ashwin Kumar",
+    "ename": "Ashwin Kumar",
     "empno": "CSE100",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Samhitha",
+    "ename": "Samhitha",
     "empno": "ISE666",
     "dname": "IS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Naveen Kumar S",
+    "ename": "Naveen Kumar S",
     "empno": "MEC641",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Ravi Kumar",
+    "ename": "Ravi Kumar",
     "empno": "MEC627",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "ANNAPPA SWAMY",
+    "ename": "ANNAPPA SWAMY",
     "empno": "CSE220",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Saviraj",
+    "ename": "Saviraj",
     "empno": "MEC428",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Sushmitha",
+    "ename": "Sushmitha",
     "empno": "CIV690",
     "dname": "CV",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Laxmi",
+    "ename": "Laxmi",
     "empno": "ECE327",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Apoorva",
+    "ename": "Apoorva",
     "empno": "CIV506",
     "dname": "CV",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Yajnesha  P",
+    "ename": "Yajnesha  P",
     "empno": "MEC495",
     "dname": "ME",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Ashutosh Holla",
+    "ename": "Ashutosh Holla",
     "empno": "CSE628",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Ravinarayana",
+    "ename": "Ravinarayana",
     "empno": "CSE161",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Vighnesha",
+    "ename": "Vighnesha",
     "empno": "MEC621",
     "dname": "ME",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Anser Pasha C A",
+    "ename": "Anser Pasha C A",
     "empno": "ISE332",
     "dname": "IS",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Karthik",
+    "ename": "Karthik",
     "empno": "MEC622",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Ajay Prinston",
+    "ename": "Ajay Prinston",
     "empno": "ECE418",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Jaya K R",
+    "ename": "Jaya K R",
     "empno": "MBA546",
     "dname": "MBA",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Akshaya D.",
+    "ename": "Akshaya D.",
     "empno": "MEC625",
     "dname": "MT",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Rueben Obed",
+    "ename": "Rueben Obed",
     "empno": "MEC563",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Purandara",
+    "ename": "Purandara",
     "empno": "MEC320",
     "dname": "ME",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Makarand Nikam",
+    "ename": "Makarand Nikam",
     "empno": "MEC575",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Ramarao",
+    "ename": "Ramarao",
     "empno": "BCSMT675",
     "dname": "MAT",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Ajay H A",
+    "ename": "Ajay H A",
     "empno": "CIV598",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Nikhila",
+    "ename": "Nikhila",
     "empno": "ECE025",
     "dname": "EC",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Sunilkumar",
+    "ename": "Sunilkumar",
     "empno": "MEC565",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Bhanuprakash",
+    "ename": "Bhanuprakash",
     "empno": "MEC569",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Milan Kumar",
+    "ename": "Milan Kumar",
     "empno": "CIV672",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Aparna Shetty",
+    "ename": "Aparna Shetty",
     "empno": "ISE502",
     "dname": "IS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Anudeep",
+    "ename": "Anudeep",
     "empno": "MEC697",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Anuradha S",
+    "ename": "Anuradha S",
     "empno": "mec494",
     "dname": "MT",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Ranjith",
+    "ename": "Ranjith",
     "empno": "ECE326",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Jayadeva",
+    "ename": "Jayadeva",
     "empno": "MBA543",
     "dname": "MBA",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Purushotham",
+    "ename": "Purushotham",
     "empno": "AER290",
     "dname": "AE",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Jayashree Hegde K",
+    "ename": "Jayashree Hegde K",
     "empno": "ISE142",
     "dname": "IS",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Anusooya R",
+    "ename": "Anusooya R",
     "empno": "AER570",
     "dname": "AE",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Sathisha",
+    "ename": "Sathisha",
     "empno": "ECE306",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Sudarshan",
+    "ename": "Sudarshan",
     "empno": "ECE257",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Rishma Mary",
+    "ename": "Rishma Mary",
     "empno": "ECE434",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Shamitha",
+    "ename": "Shamitha",
     "empno": "BCSMT626",
     "dname": "MAT",
-    "qualfication": "Others"
+    "qualification": "Others"
   },
   {
-    "name": "Ganesh Raj",
+    "ename": "Ganesh Raj",
     "empno": "MEC700",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Sahana",
+    "ename": "Sahana",
     "empno": "ECE177",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Asha",
+    "ename": "Asha",
     "empno": "BCSMT030",
     "dname": "MAT",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Shreyas K",
+    "ename": "Shreyas K",
     "empno": "CIV629",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Akshay S Bhat",
+    "ename": "Akshay S Bhat",
     "empno": "MEC695",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Mohana H S",
+    "ename": "Mohana H S",
     "empno": "CIV505",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Glenson",
+    "ename": "Glenson",
     "empno": "MEC572",
     "dname": "MT",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Ramesha",
+    "ename": "Ramesha",
     "empno": "MEC315",
     "dname": "ME",
-    "qualfication": "ME"
+    "qualification": "ME"
   },
   {
-    "name": "Venkatramana",
+    "ename": "Venkatramana",
     "empno": "CSE480",
     "dname": "CS",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Raghavendra",
+    "ename": "Raghavendra",
     "empno": "BCSPH465",
     "dname": "PHY",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Sriram S",
+    "ename": "Sriram S",
     "empno": "CIV664",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Raghavendra M D",
+    "ename": "Raghavendra M D",
     "empno": "ISE331",
     "dname": "IS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Puneeth",
+    "ename": "Puneeth",
     "empno": "AER642",
     "dname": "AE",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Aveen K",
+    "ename": "Aveen K",
     "empno": "MEC498",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Sagar Ramesh Pujar",
+    "ename": "Sagar Ramesh Pujar",
     "empno": "ISE577",
     "dname": "IS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Sourabh Ramesh",
+    "ename": "Sourabh Ramesh",
     "empno": "HUM429",
     "dname": "MAT",
-    "qualfication": "Others"
+    "qualification": "Others"
   },
   {
-    "name": "Lokesha",
+    "ename": "Lokesha",
     "empno": "MEC422",
     "dname": "ME",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Rumana Ali",
+    "ename": "Rumana Ali",
     "empno": "ECE364",
     "dname": "MT",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Taranath H",
+    "ename": "Taranath H",
     "empno": "ECE241",
     "dname": "EC",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Ashok",
+    "ename": "Ashok",
     "empno": "ece694",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Guruprasad",
+    "ename": "Guruprasad",
     "empno": "BCSCH644",
     "dname": "CHE",
-    "qualfication": "Others"
+    "qualification": "Others"
   },
   {
-    "name": "Supreetha Y L",
+    "ename": "Supreetha Y L",
     "empno": "CIV760",
     "dname": "CV",
-    "qualfication": "Others"
+    "qualification": "Others"
   },
   {
-    "name": "Verina",
+    "ename": "Verina",
     "empno": "MBA647",
     "dname": "MBA",
-    "qualfication": "Others"
+    "qualification": "Others"
   },
   {
-    "name": "Sudeep N S",
+    "ename": "Sudeep N S",
     "empno": "MEC756",
     "dname": "ME",
-    "qualfication": "Others"
+    "qualification": "Others"
   },
   {
-    "name": "Nagalakshmi",
+    "ename": "Nagalakshmi",
     "empno": "CIV634",
     "dname": "CV",
-    "qualfication": "Others"
+    "qualification": "Others"
   },
   {
-    "name": "Prakash K",
+    "ename": "Prakash K",
     "empno": "EC547",
     "dname": "EC",
-    "qualfication": "Others"
+    "qualification": "Others"
   },
   {
-    "name": "Somashekhar T M",
+    "ename": "Somashekhar T M",
     "empno": "MEC194",
     "dname": "ME",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Sathyanarayana",
+    "ename": "Sathyanarayana",
     "empno": "MEC160",
     "dname": "MT",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Rahul",
+    "ename": "Rahul",
     "empno": "MEC109",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Harish Kumar",
+    "ename": "Harish Kumar",
     "empno": "MEC603",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Manjunatha",
+    "ename": "Manjunatha",
     "empno": "CSE059",
     "dname": "CS",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Jeevan B D",
+    "ename": "Jeevan B D",
     "empno": "MEC278",
     "dname": "MD",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Mohan",
+    "ename": "Mohan",
     "empno": "MEC560",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Roopa Laxmi",
+    "ename": "Roopa Laxmi",
     "empno": "CIV689",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Akshaya Krishna N",
+    "ename": "Akshaya Krishna N",
     "empno": "CIV758",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Suresh Kumar",
+    "ename": "Suresh Kumar",
     "empno": "MEC222",
     "dname": "ME",
-    "qualfication": "ME"
+    "qualification": "ME"
   },
   {
-    "name": "Anthoni Praveen",
+    "ename": "Anthoni Praveen",
     "empno": "BCSPH129",
     "dname": "PHY",
-    "qualfication": "Others"
+    "qualification": "Others"
   },
   {
-    "name": "Vrushali V Malagi",
+    "ename": "Vrushali V Malagi",
     "empno": "CIV630",
     "dname": "CV",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Sri Krishna",
+    "ename": "Sri Krishna",
     "empno": "ECE488",
     "dname": "EC",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Sahana D",
+    "ename": "Sahana D",
     "empno": "AER544",
     "dname": "AE",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Nischitha",
+    "ename": "Nischitha",
     "empno": "ECE739",
     "dname": "EC",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Sangeetha Mohan",
+    "ename": "Sangeetha Mohan",
     "empno": "MEC380",
     "dname": "MT",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Girish",
+    "ename": "Girish",
     "empno": "ECE328",
     "dname": "EC",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Savitha",
+    "ename": "Savitha",
     "empno": "BCSMT004",
     "dname": "MAT",
-    "qualfication": "Others"
+    "qualification": "Others"
   },
   {
-    "name": "Md Ibrahim Kittur",
+    "ename": "Md Ibrahim Kittur",
     "empno": "MEC573",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Suraj",
+    "ename": "Suraj",
     "empno": "CIV688",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Rajashekhar C",
+    "ename": "Rajashekhar C",
     "empno": "MEC287",
     "dname": "ME",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Easwara Prasad",
+    "ename": "Easwara Prasad",
     "empno": "ADM288",
     "dname": "CV",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Vinod",
+    "ename": "Vinod",
     "empno": "CIV513",
     "dname": "CV",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Umesh S S",
+    "ename": "Umesh S S",
     "empno": "CIV614",
     "dname": "CV",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Uday J",
+    "ename": "Uday J",
     "empno": "ECE744",
     "dname": "EC",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Darshan",
+    "ename": "Darshan",
     "empno": "CIV654",
     "dname": "CV",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Harisha Kumara C E",
+    "ename": "Harisha Kumara C E",
     "empno": "CIV507",
     "dname": "CV",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Manjunath H",
+    "ename": "Manjunath H",
     "empno": "ISE003",
     "dname": "IS",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Ashrith H S",
+    "ename": "Ashrith H S",
     "empno": "MEC722",
     "dname": "ME",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Ramananda Mallya K",
+    "ename": "Ramananda Mallya K",
     "empno": "ISE029",
     "dname": "IS",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "P Vasavi",
+    "ename": "P Vasavi",
     "empno": "BCSMT698",
     "dname": "MAT",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Vikranth Kannanth",
+    "ename": "Vikranth Kannanth",
     "empno": "MEC335",
     "dname": "ME",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Ashwini T P",
+    "ename": "Ashwini T P",
     "empno": "ECE057",
     "dname": "MT",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Dony D'Souza",
+    "ename": "Dony D'Souza",
     "empno": "ECE112",
     "dname": "EC",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Ajith",
+    "ename": "Ajith",
     "empno": "AER214",
     "dname": "AE",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Surjit",
+    "ename": "Surjit",
     "empno": "HUM122",
     "dname": "MBA",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Nandini Gopalakrishna",
+    "ename": "Nandini Gopalakrishna",
     "empno": "BCSCH002",
     "dname": "CHE",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Rashmi",
+    "ename": "Rashmi",
     "empno": "MEC509",
     "dname": "ME",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Sumith",
+    "ename": "Sumith",
     "empno": "ECE708",
     "dname": "EC",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Avinash",
+    "ename": "Avinash",
     "empno": "CIV693",
     "dname": "CV",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Vineetha Telma",
+    "ename": "Vineetha Telma",
     "empno": "BCSCH009",
     "dname": "CHE",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Ashwini A",
+    "ename": "Ashwini A",
     "empno": "BCSCH136",
     "dname": "CHE",
-    "qualfication": "BE"
+    "qualification": "BE"
   },
   {
-    "name": "Rajesh",
+    "ename": "Rajesh",
     "empno": "ISE671",
     "dname": "IS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Nayana",
+    "ename": "Nayana",
     "empno": "BCSPH304",
     "dname": "PHY",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "K.Vijayalakshmi",
+    "ename": "K.Vijayalakshmi",
     "empno": "BCSPH564",
     "dname": "PHY",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Manas",
+    "ename": "Manas",
     "empno": "AER229",
     "dname": "AE",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Krishnamoorthy",
+    "ename": "Krishnamoorthy",
     "empno": "CSE191",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Raksha",
+    "ename": "Raksha",
     "empno": "CV601",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Jyothi S",
+    "ename": "Jyothi S",
     "empno": "BCSMT597",
     "dname": "MAT",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Sanjeevikumar",
+    "ename": "Sanjeevikumar",
     "empno": "ECE171",
     "dname": "EC",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Rashmi",
+    "ename": "Rashmi",
     "empno": "BCSMT457",
     "dname": "MAT",
-    "qualfication": "Ph.D"
+    "qualification": "Ph.D"
   },
   {
-    "name": "Sridhar D R",
+    "ename": "Sridhar D R",
     "empno": "MEC193",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Praveen Kumar S",
+    "ename": "Praveen Kumar S",
     "empno": "CSE947",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Abhirama Urs",
+    "ename": "Abhirama Urs",
     "empno": "MEC646",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Prasad",
+    "ename": "Prasad",
     "empno": "MEC102",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Vaishali",
+    "ename": "Vaishali",
     "empno": "ECE060",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Ashok Kumar.S",
+    "ename": "Ashok Kumar.S",
     "empno": "AER703",
     "dname": "AE",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Vinayambika S",
+    "ename": "Vinayambika S",
     "empno": "ECE011",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Narendra",
+    "ename": "Narendra",
     "empno": "ISE069",
     "dname": "PT",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Jinaprasad",
+    "ename": "Jinaprasad",
     "empno": "TAP512",
     "dname": "PT",
-    "qualfication": "Others"
+    "qualification": "Others"
   },
   {
-    "name": "Shruthi",
+    "ename": "Shruthi",
     "empno": "ISE670",
     "dname": "IS",
-    "qualfication": "Others"
+    "qualification": "Others"
   },
   {
-    "name": "RAKSHA",
+    "ename": "RAKSHA",
     "empno": "CIV706",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Sujesh",
+    "ename": "Sujesh",
     "empno": "AER409",
     "dname": "AE",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Shreedhar",
+    "ename": "Shreedhar",
     "empno": "MEC696",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "HITAISHI",
+    "ename": "HITAISHI",
     "empno": "CIV701",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Shashikumar",
+    "ename": "Shashikumar",
     "empno": "CIV705",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Kokila",
+    "ename": "Kokila",
     "empno": "CSE638",
     "dname": "CS",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Shanthi",
+    "ename": "Shanthi",
     "empno": "GUEST03",
     "dname": "MBA",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Ramalingam",
+    "ename": "Ramalingam",
     "empno": "ECE226",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Malini Suvarna",
+    "ename": "Malini Suvarna",
     "empno": "ECE444",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "swathi",
+    "ename": "swathi",
     "empno": "civ686",
     "dname": "CV",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "K Abhaya Kumar",
+    "ename": "K Abhaya Kumar",
     "empno": "MBA674",
     "dname": "MBA",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Shishir Kumar",
+    "ename": "Shishir Kumar",
     "empno": "ECE948",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Ramesha H R",
+    "ename": "Ramesha H R",
     "empno": "ECE413",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Harold Joyson",
+    "ename": "Harold Joyson",
     "empno": "MEC566",
     "dname": "ME",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Chaithra N P",
+    "ename": "Chaithra N P",
     "empno": "HUM933",
     "dname": "MAT",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Anjani",
+    "ename": "Anjani",
     "empno": "ECE406",
     "dname": "EC",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   },
   {
-    "name": "Nishvitha Shetty",
+    "ename": "Nishvitha Shetty",
     "empno": "MBA939",
     "dname": "MBA",
-    "qualfication": "M.Tech"
+    "qualification": "M.Tech"
   }
 ]
